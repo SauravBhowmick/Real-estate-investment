@@ -1,4 +1,5 @@
 # Real Estate Investment - DataDrooler Community
+Website[https://real-estate-prediction-app-by-tas.streamlit.app/]
 
 # Description of the Focus Segment 
 Real estate investment has become an increasingly popular avenue for generating wealth and securing financial futures. However, navigating the complexities of the real estate market can be daunting for both novice and experienced investors. Factors such as property valuation, market trends, rental yields, and financing options play crucial roles in making informed investment decisions. A comprehensive real estate investment tool can simplify this process, providing users with the insights and resources they need to make smart investment choices.
